@@ -3,11 +3,11 @@ Online Job Portal project is web application built using PHP, MySQL as backend a
 <b>A newer version (Work in progress) written using codeigniter framework can be obtained here: https://github.com/Sreelal-c/JobBoard</b>
 
 <h3>Author:</h3> 
-Sreelal C
+Sahil Sakharkar
 
 <h2> License </h2>
 Online-Job-Portal - A web application built on PHP HTML & javascript</br>
-Copyright (C) 2016  Sreelal C
+Copyright (C) 2018 Sahil Sakharkar
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
